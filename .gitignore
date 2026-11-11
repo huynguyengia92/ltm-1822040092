@@ -1,0 +1,17 @@
+# Thông tin bí mật - KHÔNG đưa lên GitHub
+.env
+
+# Môi trường ảo và cache Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Tệp sinh ra khi chạy
+inventory.csv
+
+# Hệ điều hành / editor
+.vscode/
+.DS_Store
+Thumbs.db
