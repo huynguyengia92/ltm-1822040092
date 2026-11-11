@@ -1,0 +1,9 @@
+﻿source,hostname,type,ip,status
+device,R1-1822040092,Router,10.0.0.1,Reachable
+device,SW1-1822040092,Switch,192.168.1.2,Reachable
+device,R2-1822040092,Router,10.0.0.2,Reachable
+device,SW2-1822040092,Switch,192.168.2.2,Reachable
+host,PC1-1822040092,Pc,192.168.1.11,connected
+host,PC2-1822040092,Pc,192.168.1.12,connected
+host,PC4-1822040092,Pc,192.168.2.14,connected
+host,PC3-1822040092,Pc,192.168.2.13,connected
